@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Wanda Ichsanul Isra
+description: Wanda Ichsanul Isra's blog that related to his geek life
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://wlisrausr.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -20,9 +20,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: wlisrausr
+   twitter: wlisrausr
+   facebook: wlisrausr
+   email: wandaisra@gmail.com
 
 google_analytics: "UA-58263416-1"
