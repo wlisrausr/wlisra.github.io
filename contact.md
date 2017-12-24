@@ -5,9 +5,11 @@ title: "Contact"
 
 <div id="contact">
   <h2 class="pageTitle">Contact</h2>
+
   <div class="contactContent">
     <p>If you have something in your mind that related to me or this blog, please don't hesitate to contact me via the form on this page. I'll be very happy to discuss it with you. Thanks!</p>
   </div>
+
   <form action="http://formspree.io/wandaisra@gmail.com" method="POST">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
