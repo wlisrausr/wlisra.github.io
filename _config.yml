@@ -4,7 +4,7 @@ description: Wanda Ichsanul Isra's digital geek notes
 url: https://wlisrausr.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
-permalink: blog/:title/
+permalink: blog/:year/:month/:day/:title/
 
 markdown: kramdown
 highlighter: rouge
