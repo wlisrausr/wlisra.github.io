@@ -9,15 +9,15 @@ Setelah *browsing* sejenak, saya tidak menemukan satu pun tulisan mengenai penga
 
 #### Refactory? *What's that?*
 
-*Generally*, Refactory adalah salah satu bootcamp di Indonesia yang berfokus pada pelatihan *immersive mobile apps programming* (iOS & Android) berbasis JavaScript dan React (React Native). Bootcamp ini dilaksanakan secara *intensive* di bawah bimbingan *programmer professional* selama 12 minggu di gedung Eduplex Lt. 3, Bandung.
+*Generally*, Refactory adalah salah satu *bootcamp* di Indonesia yang berfokus pada pelatihan *immersive mobile apps programming* (iOS & Android) berbasis JavaScript dan React (React Native). *Bootcamp* ini dilaksanakan secara *intensive* di bawah bimbingan *programmer professional* selama 12 minggu di gedung Eduplex Lt. 3, Bandung.
 
-Refactory merupakan bootcamp yang sangat mengutamakan kualitas dari setiap lulusannya. Untuk mencapai kualitas terbaik, Refactory mengadopsi metode SSOM (*Standard Student Outcomes Methodology*) yang dikembangkan oleh Hack Reactor, salah satu *coding bootcamp* JavaScript *top rated in the world*. Dengan adanya standar dari metode ini, diharapkan setiap lulusan dapat terserap dengan baik di industri teknologi dengan gaji yang cukup/sangat memuaskan.
+Refactory merupakan *bootcamp* yang sangat mengutamakan kualitas dari setiap lulusannya. Untuk mencapai kualitas terbaik, Refactory mengadopsi metode SSOM (*Standard Student Outcomes Methodology*) yang dikembangkan oleh Hack Reactor, salah satu *coding bootcamp* JavaScript *top rated in the world*. Dengan adanya standar dari metode ini, diharapkan setiap lulusan dapat terserap dengan baik di industri teknologi dengan gaji yang cukup/sangat memuaskan.
 
 #### *Why do I interested to register and joining* Refactory?
 
 *Simple*, karena banyaknya pengguna *mobile phone* saat ini.
 
-Berdasarkan tautan wikipedia (*accessed on June*, 2017), jumlah pengguna *mobile phone* di Indonesia saat ini mencapai lebih dari 236 juta dari total populasi 237.556.363. Dalam skala yang lebih besar (seluruh dunia), penggunanya mencapai lebih dari 7 miliar dari total populasi 7.324.782.000. *See*? *That’s a super duper huge amount of number*! Tentu saja besarnya market pengguna tersebut berbanding lurus dengan kebutuhan/*demand* terhadap *mobile programmer* saat ini dan beberapa tahun kedepan. *Make sense, right*?
+Berdasarkan tautan wikipedia (*accessed on June*, 2017), jumlah pengguna *mobile phone* di Indonesia saat ini mencapai lebih dari 236 juta dari total populasi 237.556.363. Dalam skala yang lebih besar (seluruh dunia), penggunanya mencapai lebih dari 7 miliar dari total populasi 7.324.782.000. *See*? *That’s a super duper huge amount of number*! Tentu saja besarnya *market* pengguna tersebut berbanding lurus dengan kebutuhan/*demand* terhadap *mobile programmer* saat ini dan beberapa tahun kedepan. *Make sense, right*?
 
 #### *What are the phases of registering to* Refactory?
 
@@ -41,9 +41,9 @@ Jika berhasil lolos, anda akan kembali mendapatkan info terkait kelulusan melalu
 
 **3. *Preparation period* => (*passed*)**
 
-Tahapan ketiga adalah tahapan terpanjang dan terberat yang harus dilalui oleh kandidat dengan estimasi waktu pengerjaan ± 4 minggu. Pada tahapan ini, kandidat diharuskan untuk menyelesaikan 3 *stages* yaitu *Installing Development Tools*, *Learning*, dan *Doing Task*.
+Tahapan ketiga adalah tahapan terpanjang dan terberat yang harus dilalui oleh kandidat dengan estimasi waktu pengerjaan ± 4 minggu. Pada tahapan ini, kandidat diharuskan untuk menyelesaikan 3 *stages* yaitu *installing development tools*, *learning*, dan *doing task*.
 
-Pada *stage Installing Development Tools*, ada 7 tugas yang harus diselesaikan dengan estimasi waktu pengerjaan selama 1 hari. Pada *stage Learning*, ada 9 tugas yang harus diselesaikan dengan estimasi waktu pengerjaan selama 4 minggu. Pada *stage Doing Task*, ada 3 tugas yang harus diselesaikan dengan estimasi waktu pengerjaan selama 1 hari. Estimasi waktu penyelesaian ± 4 minggu ini dapat tercapai jika kandidat mau meluangkan waktu 5 – 6 jam setiap harinya.
+Pada *stage installing development tools*, ada 7 tugas yang harus diselesaikan dengan estimasi waktu pengerjaan selama 1 hari. Pada *stage learning*, ada 9 tugas yang harus diselesaikan dengan estimasi waktu pengerjaan selama 4 minggu. Pada *stage doing task*, ada 3 tugas yang harus diselesaikan dengan estimasi waktu pengerjaan selama 1 hari. Estimasi waktu penyelesaian ± 4 minggu ini dapat tercapai jika kandidat mau meluangkan waktu 5 – 6 jam setiap harinya.
 
 Apa sebenarnya tujuan dari tugas-tugas yang panjang tersebut? Tentu saja untuk mendorong kandidat menjadi lebih tangguh, terlatih dan benar-benar siap untuk menghadapi *bootcamp* dengan intensitas yang tinggi nantinya.
 
@@ -51,6 +51,6 @@ Apa sebenarnya tujuan dari tugas-tugas yang panjang tersebut? Tentu saja untuk m
 
 Pada tahapan terakhir, kandidat diharuskan untuk mengikuti *tryout*. Tahapan ini lebih kurang mirip dengan tahapan pertama sebelumnya. Kandidat diharuskan untuk menyelesaikan tes coding *online* dengan *problem cases* yang lebih spesifik dan rumit dalam durasi waktu ± 4 jam.
 
-*That’s it*! Semoga bermanfaat and *I hope you enjoy the article. Feel free to drop me a message if you have any question about this register/admission process*. *Thanks*!
+*That’s it*! Semoga bermanfaat *and I hope you enjoy the article. Feel free to drop me a message if you have any question about this register/admission process*. *Thanks*!
 
 ***Note***: Keempat tahapan tersebut merupakan tahapan yang saya lalui saat *register* Refactory batch 4 (Luciano) pada bulan Mei dan Juni 2017. Tahapan dan tes di dalamnya bisa saja berubah/berbeda untuk batch berikutnya.
