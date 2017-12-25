@@ -19,11 +19,7 @@ title: "Homepage"
           </a>
         </h3>
         <p>
-          {% if post.description %}
-            {{ post.description }}
-          {% else %}
-            {{ post.excerpt | strip_html }}
-          {% endif %}
+          {{ post.excerpt | strip_html | truncatewords:25 }}
         </p>
       </li>
     {% endfor %}
