@@ -51,6 +51,6 @@ Apa sebenarnya tujuan dari tugas-tugas yang panjang tersebut? Tentu saja untuk m
 
 Pada tahapan terakhir, kandidat diharuskan untuk mengikuti *tryout*. Tahapan ini lebih kurang mirip dengan tahapan pertama sebelumnya. Kandidat diharuskan untuk menyelesaikan tes coding *online* dengan *problem cases* yang lebih spesifik dan rumit dalam durasi waktu ± 4 jam.
 
-*That’s it*! Semoga bermanfaat *and I hope you enjoy the article. Feel free to drop me a message if you have any question about this register/admission process*. *Thanks*!
+*That’s it*! Semoga bermanfaat *and I hope you enjoy the article. Feel free to drop me a comment below if you have any question about this register/admission process*. *Thanks*!
 
 ***Note***: Keempat tahapan tersebut merupakan tahapan yang saya lalui saat *register* Refactory batch 4 (Luciano) pada bulan Mei dan Juni 2017. Tahapan dan tes di dalamnya bisa saja berubah/berbeda untuk batch berikutnya.
