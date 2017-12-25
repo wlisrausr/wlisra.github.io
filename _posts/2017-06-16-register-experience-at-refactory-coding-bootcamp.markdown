@@ -53,4 +53,4 @@ Pada tahapan terakhir, kandidat diharuskan untuk mengikuti *tryout*. Tahapan ini
 
 *That’s it*! Semoga bermanfaat *and I hope you enjoy the article. Feel free to drop me a comment below if you have any question about this register/admission process*. *Thanks*!
 
-***Note***: Keempat tahapan tersebut merupakan tahapan yang saya lalui saat *register* Refactory batch 4 (Luciano) pada bulan Mei dan Juni 2017. Tahapan dan tes di dalamnya bisa saja berubah/berbeda untuk batch berikutnya.
+***Note***: Keempat tahapan tersebut merupakan tahapan yang saya lalui saat *register* Refactory *batch* 4 (Luciano) pada bulan Mei dan Juni 2017. Tahapan dan tes di dalamnya bisa saja berubah/berbeda untuk *batch* berikutnya.
