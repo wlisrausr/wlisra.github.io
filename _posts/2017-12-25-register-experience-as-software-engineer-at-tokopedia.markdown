@@ -15,7 +15,7 @@ Secara umum, ada 2 tahapan yang harus saya lalui saat mengikuti proses *hiring* 
 
 *As expected*, tes pertama adalah *online coding test*. Saat itu, pihak Tokopedia menggunakan salah satu *platform* tes *online* yang bernama [Codility](https://www.codility.com/){:target="_blank"}. *Platform* yang secara garis besar mirip dengan [HackerRank](https://www.hackerrank.com/){:target="_blank"}, namun memiliki fitur tambahan seperti *code analysis*, *recording*, dan *reporting*. Sejujurnya, saya belum pernah mengetahui adanya keberadaan dari *platform* canggih ini sebelumnya.
 
-Sebelum mengikuti tes, pihak Tokopedia akan mengirimkan *email* yang berisi tautan untuk mengerjakan tes ini. Rincian dari email tersebut dapat dilihat pada *snapshot* berikut.
+Sebelum mengikuti tes, pihak Tokopedia akan mengirimkan *email* yang berisi tautan untuk mengerjakan tes ini. Rincian dari *email* tersebut dapat dilihat pada *snapshot* berikut.
 
 <img src="{{ '/assets/img/tokopedia-first-test-invitation.png' | prepend: site.baseurl }}" alt="">
 
