@@ -37,11 +37,11 @@ Berselang 1 hari setelah *interview*, saya mendapat kabar dari *hiring team* Ref
 
 #### *Tips*
 
-**1. Berlatih *Data Structure* & *Algorithm***
+**1. Berlatih *data structure* & *algorithm***
 
 Tentu saja hal ini merupakan suatu hal yang mutlak dilakukan jika ingin mendaftar sebagai *software engineer* di suatu perusahaan. Berlatih setiap harinya menggunakan platform populer seperti [HackerRank](https://www.hackerrank.com/){:target="_blank"}, [Codility](https://www.codility.com/){:target="_blank"}, atau pun [Leetcode](https://leetcode.com/){:target="blank"}.
 
-**2. Berlatih *Whiteboard Coding***
+**2. Berlatih *whiteboard coding***
 
 Jika sudah terbiasa menggunakan *IDE/editor* dengan fitur *autocomplete*, maka akan sedikit kesulitan saat menghadapi *whiteboard coding interview*. Karenanya, cobalah sesekali berlatih *coding* tanpa menggunakan *computer* sama sekali agar nantinya lebih percaya diri saat menghadapi *whiteboard coding interview*.
 
