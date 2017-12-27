@@ -5,7 +5,7 @@ date: 2017-12-25
 comments: true
 ---
 
-Setelah resmi lulus dari Luciano's *4th batch* [Refactory](https://refactory.id/){:target="_blank"} dan bekerja *part time* selama 2 bulan di [Roketin](https://roketin.com/home){:target="_blank"}, salah satu *bootstraping startup* Bandung, akhirnya saya mendapatkan kesempatan untuk ikut proses *hiring* dengan salah satu *partner* Refactory yaitu [Tokopedia](https://www.tokopedia.com/){:target="_blank"}. Salah satu pengalaman terbaik dalam hidup dan karir saya yang sudah seharusnya diabadikan dalam bentuk tulisan.
+Setelah resmi lulus dari Luciano's *4th batch* [Refactory](https://refactory.id/){:target="_blank"} dan bekerja *part time* selama 2 bulan di [Roketin](https://roketin.com/home){:target="_blank"} (salah satu *bootstraping startup* Bandung), akhirnya saya mendapatkan kesempatan untuk ikut proses *hiring* dengan salah satu *partner* Refactory yaitu [Tokopedia](https://www.tokopedia.com/){:target="_blank"}. Salah satu pengalaman terbaik dalam hidup dan karir saya yang sudah seharusnya diabadikan dalam bentuk tulisan.
 
 Saat itu, Refactory mendaftarkan diri saya sebagai *software engineer* kepada pihak Tokopedia. Tentunya, ada banyak sekali penerimaan divisi lainnya untuk tim *technology* ini jika dilihat pada halaman [*career*](https://www.tokopedia.com/careers/function/technology/){:target="_blank"} Tokopedia.
 
