@@ -45,7 +45,7 @@ Tentu saja hal ini merupakan suatu hal yang mutlak dilakukan jika ingin mendafta
 
 Jika sudah terbiasa menggunakan *IDE/editor* dengan fitur *autocomplete*, maka akan sedikit kesulitan saat menghadapi *whiteboard coding interview*. Karenanya, cobalah sesekali berlatih *coding* tanpa menggunakan *computer* sama sekali agar nantinya lebih percaya diri saat menghadapi *whiteboard coding interview*.
 
-That's it! Semoga bermanfaat.
+*That's it*! Semoga bermanfaat.
 
 ***Note***:
 Rangkaian proses rekrutmen ini saya lewati pada *December* 2017. Tes dapat berubah atau berbeda di masa yang akan datang.
