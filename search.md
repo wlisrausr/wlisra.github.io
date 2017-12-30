@@ -11,7 +11,7 @@ title: "Search"
       type="text"
       id="search-input"
       class="full-width"
-      placeholder="Type the article title ..."
+      placeholder="Type the notes title ..."
     >
     <div class="search-result">
       <ul id="results-container"></ul>
