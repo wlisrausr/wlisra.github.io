@@ -17,7 +17,12 @@ layout: default
     {{ page.date | date: '%B %d, %Y' }} |
     <span class="time">
       {{ page.content | number_of_words | divided_by:180 }}
-    </span> minutes read
+    </span> minutes read |
+
+    {% for category in page.categories %}
+      <a href="{{site.baseurl}}/categories/#{{category | slugify}}">{{category}}</a>
+    {% unless forloop.last %}&#44;{% endunless %}
+    {% endfor %}
   </p>
 
   {{ content }}
