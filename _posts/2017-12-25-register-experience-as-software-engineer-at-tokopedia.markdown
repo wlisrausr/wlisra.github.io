@@ -3,6 +3,8 @@ layout: post
 title: "Register Experience as Software Engineer at Tokopedia"
 date: 2017-12-25
 comments: true
+categories: [Experience, Tokopedia]
+published: true
 ---
 
 Setelah resmi lulus dari Luciano's *4th batch* [Refactory](https://refactory.id/){:target="_blank"} dan bekerja *part time* selama 2 bulan di [Roketin](https://roketin.com/home){:target="_blank"} (salah satu *bootstraping startup* Bandung), akhirnya saya mendapatkan kesempatan untuk ikut proses *hiring* dengan salah satu *partner* Refactory yaitu [Tokopedia](https://www.tokopedia.com/){:target="_blank"}. Salah satu pengalaman terbaik dalam hidup dan karir saya yang sudah seharusnya diabadikan dalam bentuk tulisan.

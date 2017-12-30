@@ -3,6 +3,8 @@ layout: post
 title: "Register Experience at Refactory Coding Bootcamp"
 date: 2017-06-16
 comments: true
+categories: [Experience, Bootcamp]
+published: true
 ---
 
 Setelah *browsing* sejenak, saya tidak menemukan satu pun artikel mengenai pengalaman seseorang terkait proses *register* di *bootcamp* [Refactory](https://refactory.id/){:target="_blank"}. Karenanya, saya tertarik untuk menulis hal ini agar yang ingin *register* nantinya jadi ikut terbantu. *Okay, lets write it down*.
