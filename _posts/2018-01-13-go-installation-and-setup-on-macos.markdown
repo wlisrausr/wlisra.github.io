@@ -21,7 +21,7 @@ go version
 
 Jika sudah, *terminal/shell* akan memberikan keluaran seperti berikut dengan versi yang mungkin akan berbeda.
 
-{% highlight terminal %}
+{% highlight go %}
 go version go1.9.2 darwin/amd64
 {% endhighlight %}
 
@@ -31,7 +31,7 @@ Instalasi tidak perlu dilakukan jika Go sudah ter-*install* di komputer, kecuali
 
 Cara termudah yang dapat dilakukan untuk meng-*install* Go di MacOS adalah dengan menggunakan [Brew package manager](https://brew.sh/){:target="_blank"}. Pastikan Brew sudah ter-*install* dan jalankan perintah berikut pada *shell/terminal*.
 
-{% highlight terminal %}
+{% highlight go %}
 brew install go
 {% endhighlight %}
 
@@ -45,7 +45,7 @@ Secara *default* (jika `GOPATH` tidak di-*set*), Go akan berasumsi bahwa *worksp
 
 Untuk mengatur **`GOPATH`**, silahkan tambahkan 3 baris berikut pada *file* "**`~/.zshrc`**" (jika menggunakan [zsh](https://en.wikipedia.org/wiki/Z_shell){:target="_blank"}) atau "**`~/.bash_profile`**" (jika menggunakan [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)){:target="_blank"}) dan *save*. Jangan lupa sesuaikan lokasi/*path*-nya masing-masing.
 
-{% highlight terminal %}
+{% highlight go %}
 export PATH=$PATH:/usr/local/bin/go
 export GOPATH=$HOME/code/go
 export PATH=$PATH:$(go env GOPATH)/bin
@@ -53,7 +53,7 @@ export PATH=$PATH:$(go env GOPATH)/bin
 
 Jalankan perintah berikut di *terminal/shell* agar **`PATH`** tersebut ditambahkan pada *environment variable*.
 
-{% highlight terminal %}
+{% highlight go %}
 # Jika menggunakan zsh
 source ~/.zshrc
 
@@ -63,20 +63,20 @@ source ~/.bash_profile
 
 Untuk memastikan bahwa **`PATH`** berhasil ditambahkan, jalankan perintah berikut pada *terminal/shell*.
 
-{% highlight terminal %}
+{% highlight go %}
 echo $GOPATH && echo $PATH
 {% endhighlight %}
 
 Jika berhasil, *terminal/shell* akan memberikan keluaran dari **`PATH`** lengkap keduanya.
 
-{% highlight terminal %}
+{% highlight go %}
 /Users/wlisrausr/code/go
 /Users/wlisrausr/.rbenv/shims:/Users/wlisrausr/.rbenv/bin:/Users/wlisrausr/.composer/vendor/bin:/usr/local/sbin:/usr/local/opt/php71/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/wlisrausr/Library/Android/sdk/tools:/Users/wlisrausr/Library/Android/sdk/platform-tools:/Users/wlisrausr/.composer/vendor/bin:/Users/wlisrausr/.fzf/bin:/usr/local/bin/go:/Users/wlisrausr/code/go/bin
 {% endhighlight %}
 
 Tambahkan pula 3 direktori baru (**bin**, **pkg**, **src**) pada *workspace* agar lebih rapi dan terstruktur.
 
-{% highlight terminal %}
+{% highlight go %}
 mkdir -p $GOPATH/bin
 mkdir -p $GOPATH/pkg
 mkdir -p $GOPATH/src
@@ -86,7 +86,7 @@ mkdir -p $GOPATH/src
 
 Kita dapat memastikan apakah instalasi dan pengaturan tersebut sudah berfungsi dengan baik dengan cara meng-*install* **gotour** secara lokal. Jalankan perintah berikut pada *terminal/shell*.
 
-{% highlight terminal %}
+{% highlight go %}
 go get golang.org/x/tour/gotour
 {% endhighlight %}
 
