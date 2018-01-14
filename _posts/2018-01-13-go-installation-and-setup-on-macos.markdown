@@ -7,9 +7,9 @@ categories: [Go, Tutorial]
 published: true
 ---
 
-Saat mengikuti [*interview* rekrutmen Tokopedia](https://wlisrausr.github.io/blog/2017/12/25/register-experience-as-software-engineer-at-tokopedia/){:target="_blank"} bulan lalu, saya sempat mengajukan beberapa pertanyaan kepada *inteviewer*. Salah satunya adalah tentang teknologi/*tools* yang saat ini digunakan oleh [Tokopedia](https://www.tokopedia.com/){:target="_blank"}. Ternyata, salah satunya adalah [Go *programming language*](https://golang.org/){:target="_blank"}. Bahasa yang dikembangkan oleh [Google LLC](https://en.wikipedia.org/wiki/Google){:target="_blank"} dan sedang *hype* di kalangan *developer* saat ini. Oleh karenanya, saya manjadi tertantang untuk mempelajari & menjadikan Go sebagai salah satu *expertise* saya selama bekerja di Tokopedia nantinya.
+Saat mengikuti [*interview* rekrutmen Tokopedia](https://wlisrausr.github.io/blog/2017/12/25/register-experience-as-software-engineer-at-tokopedia/){:target="_blank"} bulan lalu, saya sempat mengajukan beberapa pertanyaan kepada *interviewer*. Salah satunya adalah tentang teknologi/*tools* yang saat ini digunakan oleh [Tokopedia](https://www.tokopedia.com/){:target="_blank"}. Ternyata, salah satunya adalah [Go *programming language*](https://golang.org/){:target="_blank"}. Bahasa yang dikembangkan oleh [Google LLC](https://en.wikipedia.org/wiki/Google){:target="_blank"} dan sedang *hype* di kalangan *developer* saat ini. Oleh karenanya, saya manjadi tertantang untuk mempelajari & menjadikan Go sebagai salah satu *expertise* saya selama bekerja di Tokopedia nantinya.
 
-Karena saya berniat untuk mempelajari bahasa ini secara mendalam, maka saya harus melakukan instalasi dan pengaturan secara langsung di komputer pribadi saya. Jika hanya ingin mencicipi atau melihat *Go in action* secara umum, silahkan akses [Go *tour online*](https://tour.golang.org/welcome/1){:target="_blank"}.
+Dikarenakan niat saya untuk mempelajari bahasa ini secara mendalam, maka saya harus melakukan instalasi dan pengaturan secara langsung di komputer pribadi saya. Jika hanya ingin mencicipi atau melihat Go *in action* secara umum, silahkan kunjungi [Go *tour online*](https://tour.golang.org/welcome/1){:target="_blank"}.
 
 ### Sebelum Instalasi
 
@@ -51,7 +51,7 @@ export GOPATH=$HOME/code/go
 export PATH=$PATH:$(go env GOPATH)/bin
 {% endhighlight %}
 
-Jalankan perintah berikut di *terminal/shell* agar **`PATH`** tersebut berhasil ditambahkan pada *environment variable*.
+Jalankan perintah berikut di *terminal/shell* agar **`PATH`** tersebut ditambahkan pada *environment variable*.
 
 {% highlight terminal %}
 # Jika menggunakan zsh
@@ -61,7 +61,20 @@ source ~/.zshrc
 source ~/.bash_profile
 {% endhighlight %}
 
-Tambahkan 3 direktori baru (**bin**, **pkg**, **src**) pada *workspace* agar lebih rapi dan terstruktur.
+Untuk memastikan bahwa **`PATH`** berhasil ditambahkan, jalankan perintah berikut pada *terminal/shell*.
+
+{% highlight terminal %}
+echo $GOPATH && echo $PATH
+{% endhighlight %}
+
+Jika berhasil, *terminal/shell* akan memberikan keluaran dari **`PATH`** lengkap keduanya.
+
+{% highlight terminal %}
+/Users/wlisrausr/code/go
+/Users/wlisrausr/.rbenv/shims:/Users/wlisrausr/.rbenv/bin:/Users/wlisrausr/.composer/vendor/bin:/usr/local/sbin:/usr/local/opt/php71/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/wlisrausr/Library/Android/sdk/tools:/Users/wlisrausr/Library/Android/sdk/platform-tools:/Users/wlisrausr/.composer/vendor/bin:/Users/wlisrausr/.fzf/bin:/usr/local/bin/go:/Users/wlisrausr/code/go/bin
+{% endhighlight %}
+
+Tambahkan pula 3 direktori baru (**bin**, **pkg**, **src**) pada *workspace* agar lebih rapi dan terstruktur.
 
 {% highlight terminal %}
 mkdir -p $GOPATH/bin
