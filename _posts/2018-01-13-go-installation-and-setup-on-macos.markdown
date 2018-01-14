@@ -15,7 +15,7 @@ Dikarenakan niat saya untuk mempelajari bahasa ini secara mendalam, maka saya ha
 
 Sebelum melakukan instalasi, ada baiknya cek terlebih dahulu apakah Go sudah ter-*install* di komputer dengan menjalankan perintah berikut pada *shell/terminal*.
 
-{% highlight shell_session %}
+{% highlight go %}
 go version
 {% endhighlight %}
 
