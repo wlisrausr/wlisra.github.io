@@ -74,7 +74,7 @@ Jika berhasil, *shell/terminal* akan memberikan keluaran dari **`PATH`** lengkap
 /Users/wlisrausr/.rbenv/shims:/Users/wlisrausr/.rbenv/bin:/Users/wlisrausr/.composer/vendor/bin:/usr/local/sbin:/usr/local/opt/php71/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/wlisrausr/Library/Android/sdk/tools:/Users/wlisrausr/Library/Android/sdk/platform-tools:/Users/wlisrausr/.composer/vendor/bin:/Users/wlisrausr/.fzf/bin:/usr/local/bin/go:/Users/wlisrausr/code/go/bin
 {% endhighlight %}
 
-Tambahkan pula 3 direktori baru (**bin**, **pkg**, **src**) pada *workspace* agar lebih rapi dan terstruktur.
+Tambahkan pula 3 direktori baru (**bin**, **pkg**, **src**) pada *workspace* agar kode dan lokal *packages* Go lebih rapi dan terstruktur.
 
 {% highlight go %}
 mkdir -p $GOPATH/bin
