@@ -19,7 +19,7 @@ Sebelum melakukan instalasi, ada baiknya cek terlebih dahulu apakah Go sudah ter
 go version
 {% endhighlight %}
 
-Jika sudah, *terminal/shell* akan memberikan keluaran seperti berikut dengan versi yang mungkin akan berbeda.
+Jika sudah, *shell/terminal* akan memberikan keluaran seperti berikut dengan versi yang mungkin akan berbeda.
 
 {% highlight go %}
 go version go1.9.2 darwin/amd64
@@ -51,7 +51,7 @@ export GOPATH=$HOME/code/go
 export PATH=$PATH:$(go env GOPATH)/bin
 {% endhighlight %}
 
-Jalankan perintah berikut di *terminal/shell* agar **`PATH`** tersebut ditambahkan pada *environment variable*.
+Jalankan perintah berikut di *shell/terminal* agar **`PATH`** tersebut ditambahkan pada *environment variable*.
 
 {% highlight go %}
 # Jika menggunakan zsh
@@ -61,13 +61,13 @@ source ~/.zshrc
 source ~/.bash_profile
 {% endhighlight %}
 
-Untuk memastikan bahwa **`PATH`** berhasil ditambahkan, jalankan perintah berikut pada *terminal/shell*.
+Untuk memastikan bahwa **`PATH`** berhasil ditambahkan, jalankan perintah berikut pada *shell/terminal*.
 
 {% highlight go %}
 echo $GOPATH && echo $PATH
 {% endhighlight %}
 
-Jika berhasil, *terminal/shell* akan memberikan keluaran dari **`PATH`** lengkap keduanya.
+Jika berhasil, *shell/terminal* akan memberikan keluaran dari **`PATH`** lengkap keduanya.
 
 {% highlight go %}
 /Users/wlisrausr/code/go
@@ -84,13 +84,13 @@ mkdir -p $GOPATH/src
 
 ### Pengujian
 
-Kita dapat memastikan apakah instalasi dan pengaturan tersebut sudah berfungsi dengan baik dengan cara meng-*install* **gotour** secara lokal. Jalankan perintah berikut pada *terminal/shell*.
+Kita dapat memastikan apakah instalasi dan pengaturan tersebut sudah berfungsi dengan baik dengan cara meng-*install* **gotour** secara lokal. Jalankan perintah berikut pada *shell/terminal*.
 
 {% highlight go %}
 go get golang.org/x/tour/gotour
 {% endhighlight %}
 
-Jika proses ini berhasil, maka kita dapat menjalankan perintah "**`gotour`**" pada *terminal/shell* dan mempelajari Go pada *browser* secara *offline*.
+Jika proses ini berhasil, maka kita dapat menjalankan perintah "**`gotour`**" pada *shell/terminal* dan mempelajari Go pada *browser* secara *offline*.
 
 *That's it*. Semoga bermanfaat dan jangan sungkan untuk meninggalkan komentar.
 
