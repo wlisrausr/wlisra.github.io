@@ -4,7 +4,7 @@ title: "TIL: Dasar-Dasar Pemrograman Go"
 date: 2018-01-20
 comments: true
 categories: [Go, Tutorial]
-published: true
+published: false
 ---
 
 Pada artikel sebelumnya, saya telah membahas tentang bagaimana cara [meng-*install* Go dan mengatur GOPATH pada MacOS](https://wlisrausr.github.io/blog/2018/01/13/go-installation-and-setup-on-macos/){:target="_blank"}. Kali ini, saya akan coba untuk membahas beberapa poin penting dari dasar-dasar pemrograman Go yang saya pelajari dari [Go *tour online*](https://tour.golang.org/list){:target="_blank"} dan [*The Little Go Book by Carl Seguin*](http://openmymind.net/The-Little-Go-Book/){:target="_blank"}. Dua referensi yang saya rasa cukup untuk memulai perjalanan sebagai seorang [*Gopher*](https://blog.golang.org/gopher){:target="_blank"}. Sip, mari kita mulai.
