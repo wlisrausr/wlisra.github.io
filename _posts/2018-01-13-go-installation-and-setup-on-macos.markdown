@@ -16,12 +16,13 @@ Dikarenakan niat saya untuk mempelajari bahasa ini secara mendalam, maka saya ha
 Sebelum melakukan instalasi, ada baiknya cek terlebih dahulu apakah Go sudah ter-*install* di komputer dengan menjalankan perintah berikut pada *shell/terminal*.
 
 {% highlight go %}
-go version
+$ go version
 {% endhighlight %}
 
 Jika sudah, *shell/terminal* akan memberikan keluaran seperti berikut dengan versi yang mungkin akan berbeda.
 
 {% highlight go %}
+$ go version
 go version go1.9.2 darwin/amd64
 {% endhighlight %}
 
@@ -32,7 +33,7 @@ Instalasi tidak perlu dilakukan jika Go sudah ter-*install* di komputer, kecuali
 Cara termudah yang dapat dilakukan untuk meng-*install* Go di MacOS adalah dengan menggunakan [Brew package manager](https://brew.sh/){:target="_blank"}. Pastikan Brew sudah ter-*install* dan jalankan perintah berikut pada *shell/terminal*.
 
 {% highlight go %}
-brew install go
+$ brew install go
 {% endhighlight %}
 
 Jika proses ini berjalan dengan lancar hingga selesai, maka versi dari Go yang ter-*install* dapat dicek menggunakan perintah "**`go version`**" sebelumnya.
@@ -55,21 +56,22 @@ Jalankan perintah berikut di *shell/terminal* agar **`PATH`** tersebut ditambahk
 
 {% highlight go %}
 # Jika menggunakan zsh
-source ~/.zshrc
+$ source ~/.zshrc
 
 # Jika menggunakan bash
-source ~/.bash_profile
+$ source ~/.bash_profile
 {% endhighlight %}
 
 Untuk memastikan bahwa **`PATH`** berhasil ditambahkan, jalankan perintah berikut pada *shell/terminal*.
 
 {% highlight go %}
-echo $GOPATH && echo $PATH
+$ echo $GOPATH && echo $PATH
 {% endhighlight %}
 
 Jika berhasil, *shell/terminal* akan memberikan keluaran dari **`PATH`** lengkap keduanya.
 
 {% highlight go %}
+$ echo $GOPATH && echo $PATH
 /Users/wlisrausr/code/go
 /Users/wlisrausr/.rbenv/shims:/Users/wlisrausr/.rbenv/bin:/Users/wlisrausr/.composer/vendor/bin:/usr/local/sbin:/usr/local/opt/php71/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/wlisrausr/Library/Android/sdk/tools:/Users/wlisrausr/Library/Android/sdk/platform-tools:/Users/wlisrausr/.composer/vendor/bin:/Users/wlisrausr/.fzf/bin:/usr/local/bin/go:/Users/wlisrausr/code/go/bin
 {% endhighlight %}
@@ -77,9 +79,9 @@ Jika berhasil, *shell/terminal* akan memberikan keluaran dari **`PATH`** lengkap
 Tambahkan pula 3 direktori baru (**bin**, **pkg**, **src**) pada *workspace* agar kode dan lokal *packages* Go lebih rapi dan terstruktur.
 
 {% highlight go %}
-mkdir -p $GOPATH/bin
-mkdir -p $GOPATH/pkg
-mkdir -p $GOPATH/src
+$ mkdir -p $GOPATH/bin
+$ mkdir -p $GOPATH/pkg
+$ mkdir -p $GOPATH/src
 {% endhighlight %}
 
 ### Pengujian
@@ -87,7 +89,7 @@ mkdir -p $GOPATH/src
 Kita dapat memastikan apakah instalasi dan pengaturan tersebut sudah berfungsi dengan baik dengan cara meng-*install* **gotour** secara lokal. Jalankan perintah berikut pada *shell/terminal*.
 
 {% highlight go %}
-go get golang.org/x/tour/gotour
+$ go get golang.org/x/tour/gotour
 {% endhighlight %}
 
 Jika proses ini berhasil, maka kita dapat menjalankan perintah "**`gotour`**" pada *shell/terminal* dan mempelajari Go pada *browser* secara *offline*.
