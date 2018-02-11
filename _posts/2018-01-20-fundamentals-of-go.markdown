@@ -154,11 +154,34 @@ func getHidayah() {
 
 #### 6. Konstanta (*Constant*)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Konstanta adalah nilai ketetapan yang dideklarasi dengan menggunakan kata kunci "**const**". Nilai dari konstanta ini dapat berupa sebuah karakter, *string*, *boolean*, atau *numeric*. Perlu diingat, pendeklarasian dari konstanta tidak dapat dilakukan menggunakan “:=” (*short variable declaration operator*).
+
+{% highlight go %}
+// Format (menggunakan tipe data)
+const nama_konstanta tipe_data = 3.14
+
+// Format (tanpa menggunakan tipe data)
+const nama_konstanta = nilai
+
+// Contoh
+const s string = "konstanta"
+const Pi = 3.14
+{% endhighlight %}
 
 #### 7. Fungsi (*Function*)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Fungsi adalah salah satu elemen krusial dalam pemrograman. Fungsi pada Go dapat diimplementasi dengan menggunakan kata kunci "**func**". Sebuah fungsi dapat memiliki 0/1/beberapa parameter (*arguments*) dan 0/1/beberapa nilai pengembalian (*return value*).
+
+{% highlight go %}
+// Format
+func nama_fungsi() {
+}
+
+// Contoh
+func printPesanHello() {
+        fmt.Println("Hello there!")
+}
+{% endhighlight %}
 
 #### 8. Pernyataan Kondisional
 
