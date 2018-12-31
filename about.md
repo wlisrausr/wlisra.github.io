@@ -14,7 +14,7 @@ title: "About"
 
   <div class="about-space">
   <h4>Where do I live?</h4>
-  <p>Currently in Bandung area, West Java, Indonesia.</p>
+  <p>Currently in Jakarta area, South Jakarta, Indonesia.</p>
   </div>
 
   <div class="about-space">
