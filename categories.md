@@ -15,7 +15,7 @@ title: "Categories"
       <a name="{{ category_name | slugify }}"></a>
       <h4 class="category-head">
         {{ category_name }}
-        ({{ site.categories[category_name].size }} notes)
+        ({{ site.categories[category_name].size }} articles)
       </h4>
 
       <ul>
