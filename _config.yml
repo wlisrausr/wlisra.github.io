@@ -1,5 +1,5 @@
-title: My Geek Notes
-description: Wanda Ichsanul Isra's digital geek notes
+title: Pragmatic Life
+description: Wanda Ichsanul Isra's pragmatic life
 
 url: https://wlisrausr.github.io/
 baseurl: ""
@@ -12,8 +12,6 @@ gems: [jekyll-paginate]
 paginate: 5
 
 navigation:
- - title: Home
-   url: /index.html
  - title: About
    url: /about
  - title: Contact
