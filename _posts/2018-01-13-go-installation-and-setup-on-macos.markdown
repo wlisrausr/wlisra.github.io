@@ -3,7 +3,7 @@ layout: post
 title: "TIL: Instalasi dan Pengaturan Bahasa Pemrograman Go di MacOS"
 date: 2018-01-13
 comments: true
-categories: [Go, Tutorial]
+categories: [Programming]
 published: true
 ---
 

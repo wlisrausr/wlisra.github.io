@@ -3,7 +3,7 @@ layout: post
 title: "Pengalaman Mendaftar di Refactory Coding Bootcamp"
 date: 2017-06-16
 comments: true
-categories: [Experience, Bootcamp]
+categories: [Experience]
 published: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "TIL: Dasar-Dasar Pemrograman Go"
 date: 2018-01-20
 comments: true
-categories: [Go, Tutorial]
+categories: [Programming]
 published: false
 ---
 
