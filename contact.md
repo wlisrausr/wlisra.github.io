@@ -7,7 +7,7 @@ title: "Contact"
   <h2 class="pageTitle">Contact</h2>
 
   <div class="contactContent">
-    <p>If you have something in your mind that related to me or this blog, please don't hesitate to contact me via the form on this page. I'll be very happy to discuss it with you. Thanks!</p>
+    <p>If you have something in your mind that related to me or this blog, please don't hesitate to contact me via this minimalist form. I'll be very happy to discuss it with you. Thanks!</p>
   </div>
 
   <form action="http://formspree.io/wandaisra@gmail.com" method="POST">
