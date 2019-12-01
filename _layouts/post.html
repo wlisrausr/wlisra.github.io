@@ -17,12 +17,7 @@ layout: default
     {{ page.date | date: '%b %d, %Y' }} |
     <span class="time">
       {{ page.content | number_of_words | divided_by:180 }}
-    </span> mins read |
-
-    {% for category in page.categories %}
-      <a href="{{site.baseurl}}/categories/#{{category | slugify}}">{{category}}</a>
-    {% unless forloop.last %}&#44;{% endunless %}
-    {% endfor %}
+    </span> mins read | Wanda Ichsanul Isra
   </p>
 
   {{ content }}

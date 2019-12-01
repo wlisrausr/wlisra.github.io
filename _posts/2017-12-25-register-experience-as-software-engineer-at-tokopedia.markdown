@@ -3,7 +3,6 @@ layout: post
 title: "Pengalaman Mendaftar sebagai Software Engineer di Tokopedia"
 date: 2017-12-25
 comments: true
-categories: [Experience]
 published: true
 ---
 
