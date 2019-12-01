@@ -9,7 +9,7 @@ title: "About"
 
   <div class="about-space">
     <h4>Who am I?</h4>
-    <p>You can call me Wanda. A software engineer, Indonesian long life learner, and the one and only man who wrote all of the articles on this site.</p>
+    <p>You can call me Wanda. A software engineer, Indonesian long life learner, and the one and only man who wrote all of the articles in this site.</p>
   </div>
 
   <div class="about-space">
@@ -28,5 +28,5 @@ title: "About"
   </div>
 
   <h4>Why am I mixing two languages on this blog?</h4>
-  <p>Honestly, I want to use English completely on this blog, but I'm not quite confident yet with my english skill. I have to practice more to gain a better sense of writing at this language. So, instead of only using Bahasa, I will mix it with English too.</p>
+  <p>Honestly, I want to use English completely, but I'm not quite confident yet with my english skill. I have to practice more to gain a better sense of writing at this language. So, instead of only using Bahasa, I will mix it with English too.</p>
 </div>
