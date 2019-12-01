@@ -28,5 +28,5 @@ title: "About"
   </div>
 
   <h4>Why am I mixing two languages on this blog?</h4>
-  <p>Honestly, I want to use English completely, but I'm not quite confident yet with my english skill. I have to practice more to gain a better sense of writing at this language. So, instead of only using Bahasa, I will mix it with English too.</p>
+  <p>Honestly, I want to use English completely, but I'm not quite confident yet with my English skill. I have to practice more to gain a better sense of writing at this language. So, instead of only using Bahasa, I will mix it with English too.</p>
 </div>
