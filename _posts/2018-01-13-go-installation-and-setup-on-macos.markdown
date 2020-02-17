@@ -3,7 +3,7 @@ layout: post
 title: "TIL: Instalasi dan Pengaturan Bahasa Pemrograman Go di MacOS"
 date: 2018-01-13
 comments: true
-published: true
+published: false
 ---
 
 Saat mengikuti [*interview* rekrutmen Tokopedia](https://wlisrausr.github.io/blog/2017/12/25/register-experience-as-software-engineer-at-tokopedia/){:target="_blank"} bulan lalu, saya sempat mengajukan beberapa pertanyaan kepada *interviewer*. Salah satunya adalah tentang teknologi/*tools* yang saat ini digunakan oleh [Tokopedia](https://www.tokopedia.com/){:target="_blank"}. Ternyata, salah satunya adalah [Go *programming language*](https://golang.org/){:target="_blank"}. Bahasa yang dikembangkan oleh [Google LLC](https://en.wikipedia.org/wiki/Google){:target="_blank"} dan sedang *hype* di kalangan *developer* saat ini. Oleh karenanya, saya manjadi tertantang untuk mempelajari & menjadikan Go sebagai salah satu *expertise* saya selama bekerja di Tokopedia nantinya.
