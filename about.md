@@ -9,7 +9,7 @@ title: "About"
 
   <div class="about-space">
     <h4>Who am I?</h4>
-    <p>You can call me Wanda. A software engineer, Indonesian long life learner, and the one and only man who wrote all of the articles in this site. You can also download my CV/resume <a href="{{ '/assets/docs/wii-resume.pdf' | prepend: site.baseurl }}">here</a>.</p>
+    <p>You can call me Wanda. A software engineer, Indonesian long life learner, and the one and only man who wrote all of the articles in this site. You can also download my CV/resume <a href="{{ '/assets/docs/resume.pdf' | prepend: site.baseurl }}">here</a>.</p>
   </div>
 
   <div class="about-space">
