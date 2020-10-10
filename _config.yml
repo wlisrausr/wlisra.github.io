@@ -4,7 +4,7 @@ description: Wanda Ichsanul Isra's thought
 url: https://wlisrausr.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
-permalink: blog/:year/:month/:day/:title/
+permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
